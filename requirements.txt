@@ -1,2 +1,5 @@
 loadData
 modelLoader
+pandas
+surprise
+joblib
